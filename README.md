@@ -96,15 +96,15 @@ List of websites that support Signed Pages:
 
 Setup the environment needed for this extension and `page-signer.js`:
 
-`yarn install`
+`npm install`
 
 To build the extension for development run:
 
-`yarn run build`
+`npm build`
 
 To build it for deployment run:
 
-`yarn run package`
+`npm package`
 
 # Technical details
 
